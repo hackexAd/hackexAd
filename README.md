@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hackexAd
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning  and  enjoying #100DAYSOFBUGHUNTING
+- 🌱 I’m currently learning  and  enjoying #100DAYSOFHACKING
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
